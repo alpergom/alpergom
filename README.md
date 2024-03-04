@@ -1,7 +1,7 @@
 # Hello, I'm Alberto 👋
 
 "Talk is cheap. Show me the code."
-- Linus Torvalds
+Linus Torvalds
 
 ## 🌱 About Me
 
@@ -23,6 +23,6 @@ I am a biomedical researcher who loves to take on new challenges. I would love t
 
 You can find me on:
 
-[Link]([https://ejemplo.com/](https://es.linkedin.com/in/bioalberto) "LinkedIn")
+LinkedIn(https://es.linkedin.com/in/bioalberto)
 
 Thanks for visiting my profile!
