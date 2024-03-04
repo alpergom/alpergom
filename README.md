@@ -23,6 +23,6 @@ I am a biomedical researcher who loves to take on new challenges. I would love t
 
 You can find me on:
 
-LinkedIn(https://es.linkedin.com/in/bioalberto)
+[LinkedIn](https://es.linkedin.com/in/bioalberto)
 
 Thanks for visiting my profile!
