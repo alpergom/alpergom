@@ -1,38 +1,28 @@
-
-
-- 👋 Hi, I’m @alpergom
-- 👀 I’m interested in Cybersecurity, Big Data and Data Mining.
-- 🌱 I’m currently learning C, C++, Java and Shell Scripting.
-- 💞️ I’m looking to collaborate on ...
-
 # Hello, I'm Alberto 👋
 
-!Header
+"Talk is cheap. Show me the code."
+- Linus Torvalds
 
 ## 🌱 About Me
 
-I'm a passionate software developer with experience in technologies like JavaScript, Python, and React. I love solving complex problems and creating intuitive web applications.
+I am a biomedical researcher who loves to take on new challenges. I would love to gain knowledge about informatics in order to apply it to my current work: research related to human pathologies and inflammation. I'm going for it!
 
 ## 🚀 My Projects
 
-- **Project A**: A task management system with an intuitive user interface. (link to the repository)
-- **Project B**: A real-time chat application with push notifications. (link to the repository)
+- **Project A**: My first project is my own training. I am a student of 42 and I am on the way to learn programming. For that reason, I have few projects developed.
+- **Project B**: Secondly, I have developed a set of projects for 1 month, framed in a selection process to become a student of 42 (Piscine).
+- **Project C**: Once the pool was finished, I was selected to be part of 42 Madrid, where I am currently a student. This is my main project now, swimming and swimming to learn and interact with fellow programmers as much as possible.
 
 ## 🛠 Technologies
 
-- Programming Languages: JavaScript, Python
-- Frameworks: React, Node.js
-- Databases: MongoDB, PostgreSQL
-
-## 📈 GitHub Stats
-
-!GitHub Stats
+- Programming Languages:
+     * Currently: C, R.
+     * Future: Python, C++ and Java.
 
 ## 📫 Contact
 
 You can find me on:
 
-- LinkedIn
-- Twitter
+[Link]([https://ejemplo.com/](https://es.linkedin.com/in/bioalberto) "LinkedIn")
 
 Thanks for visiting my profile!
