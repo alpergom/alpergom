@@ -1,7 +1,7 @@
 # Hello, I'm Alberto 👋
 
 "Talk is cheap. Show me the code."
-!Linus Torvalds
+Linus Torvalds
 
 ## 🌱 About Me
 
